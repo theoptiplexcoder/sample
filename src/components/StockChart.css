@@ -1,0 +1,9 @@
+.chart-container {
+    width: 90%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f4f4f9;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }

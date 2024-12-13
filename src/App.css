@@ -1,0 +1,16 @@
+.app {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+
+  error-message {
+    color: red;
+    text-align: center;
+    margin: 20px;
+    font-size: 1.1rem;
+  }
